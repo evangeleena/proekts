@@ -1,0 +1,10 @@
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\bin\Debug\Gracheva megafon.exe.config
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\bin\Debug\Gracheva megafon.exe
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\bin\Debug\Gracheva megafon.pdb
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva megafon.csprojAssemblyReference.cache
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva_megafon.Form1.resources
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva_megafon.Properties.Resources.resources
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva megafon.csproj.GenerateResource.cache
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva megafon.csproj.CoreCompileInputs.cache
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva megafon.exe
+D:\GrachevaRusinova(swag)\Gracheva megafon\Gracheva megafon\obj\Debug\Gracheva megafon.pdb
