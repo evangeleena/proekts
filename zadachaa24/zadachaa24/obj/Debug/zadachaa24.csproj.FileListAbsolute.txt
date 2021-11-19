@@ -1,0 +1,10 @@
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\bin\Debug\zadachaa24.exe.config
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\bin\Debug\zadachaa24.exe
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\bin\Debug\zadachaa24.pdb
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.csprojAssemblyReference.cache
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.Form1.resources
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.Properties.Resources.resources
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.csproj.GenerateResource.cache
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.csproj.CoreCompileInputs.cache
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.exe
+D:\GrachevaRusinova(swag)\zadachaa24\zadachaa24\obj\Debug\zadachaa24.pdb
