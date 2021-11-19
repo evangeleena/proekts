@@ -1,0 +1,10 @@
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.csprojAssemblyReference.cache
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.Form1.resources
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.Properties.Resources.resources
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.csproj.GenerateResource.cache
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.csproj.CoreCompileInputs.cache
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\bin\Debug\zadacha13.exe.config
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\bin\Debug\zadacha13.exe
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\bin\Debug\zadacha13.pdb
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.exe
+D:\GrachevaRusinova(swag)\zadacha13\zadacha13\obj\Debug\zadacha13.pdb
